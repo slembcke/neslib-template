@@ -1,0 +1,11 @@
+*.o
+*.s
+*.nes
+link.log
+tools/png2chr
+tools/chr2png
+tiles.chr
+sprites.chr
+a.out
+tools/nsf2data
+tools/text2data
