@@ -1,7 +1,7 @@
 # neslib-template
 Template NES project in C using neslib.
 
-Has a dependency on libpng, so make sure you have a "dev" package for that installed.
+Should build OK on MacOS X, Linux, and Cygwin. Has a dependency on libpng for the png2chr tool, so make sure you have a "dev" package for that installed or built.
 
 Rough build instructions:
 * Checkout the cc65 submodule: `git submodule update --init --recursive`
